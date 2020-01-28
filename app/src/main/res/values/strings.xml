@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="cityEditText">Enter the City</string>
+    <string name="titleTextView">Welcome to Weather App!</string>
+    <string name="getWeatherButton">Get Weather</string>
+    <string name="language">Language</string>
+    <string name="def_language">english</string>
+    <string name="def_units">celsius</string>
+    <string name="language_summary">English</string>
+    <string name="units">Temperature Units</string>
+    <string name="units_summary">Celsius</string>
+
+    <string name="user_language" translatable="false">language</string>
+    <string name="pref_lang_en" translatable="false">en</string>
+    <string name="pref_lang_ru" translatable="false">ru</string>
+
+    <string name="user_units" translatable="false">units</string>
+    <string name="pref_units_kelvin" translatable="false">kelvin</string>
+    <string name="pref_units_celsius" translatable="false">celsius</string>
+    <string name="pref_units_fahrenheit" translatable="false">fahrenheit</string>
+</resources>

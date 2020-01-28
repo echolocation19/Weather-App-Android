@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="cityEditText">Введите город</string>
+    <string name="titleTextView">Добро пожаловать в приложение "Погода"!</string>
+    <string name="getWeatherButton">Узнать Погоду</string>
+    <string name="language">Язык</string>
+    <string name="def_language">english</string>
+    <string name="def_units">celsius</string>
+    <string name="language_summary">Русский</string>
+    <string name="units">Единицы измерения температуры</string>
+    <string name="units_summary">Цельсии</string>
+</resources>
